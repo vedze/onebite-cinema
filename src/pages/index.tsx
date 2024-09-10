@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>Welcome Page Router</>;
+  return <h2>ONEBITE CINEMA</h2>;
 }
